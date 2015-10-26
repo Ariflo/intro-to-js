@@ -18,5 +18,5 @@ var beerSong = function(numBeers) {
 	 	}
 } 
 
-beerSong(10); 
+beerSong(99); 
 
