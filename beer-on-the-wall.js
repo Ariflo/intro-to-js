@@ -5,7 +5,7 @@ var beerSong = function(numBeers) {
 			console.log( numBeers + " bottle of beer on the wall");
 		 	console.log( numBeers + " bottle of beer");	
 
-	 		console.log( "Take it down and pass it around, No more bottles of beer on the wall.\n" );
+	 		console.log( "Take it down and pass it around, No more bottles of beer on the wall." );
 	 	}
 	 	else{
 	 	console.log( numBeers + " bottles of beer on the wall");
